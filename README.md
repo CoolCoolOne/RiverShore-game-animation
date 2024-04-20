@@ -9,4 +9,8 @@ https://coolcoolone.github.io/RiverShore-game-animation/
 ![image](https://github.com/CoolCoolOne/RiverShore-game-animation/assets/162994571/054248cf-6055-4e90-b6ed-573c67fdb774)
 ![image](https://github.com/CoolCoolOne/RiverShore-game-animation/assets/162994571/e77b27d1-7add-4895-952e-796435714059)
 
+v3
+![image](https://github.com/CoolCoolOne/RiverShore-game-animation/assets/162994571/f91166c4-3fdc-4d49-a7a2-6420683b4047)
+
+
 
