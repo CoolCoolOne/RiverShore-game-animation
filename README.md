@@ -14,3 +14,8 @@ v3
 
 
 
+v4
+![image](https://github.com/CoolCoolOne/RiverShore-game-animation/assets/162994571/bf8efdfa-c935-4813-bec3-98889f1a01f4)
+
+
+
