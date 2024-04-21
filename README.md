@@ -17,8 +17,8 @@ v3
 v4
 ![image](https://github.com/CoolCoolOne/RiverShore-game-animation/assets/162994571/bf8efdfa-c935-4813-bec3-98889f1a01f4)
 
-v5 (очередь 21 волна)
-![image](https://github.com/CoolCoolOne/RiverShore-game-animation/assets/162994571/2e6fdf51-1b58-488b-888a-04a2975c264e)
+v5 (очередь 21 волна)![image](https://github.com/CoolCoolOne/RiverShore-game-animation/assets/162994571/39820b7a-6aca-49e6-b0c9-98d1794ff6b8)
+
 
 
 
