@@ -1,4 +1,4 @@
-https://coolcoolone.github.io/RiverShore-game-animation/
+[Управляемая анимация реки и даже 2 дерева](https://coolcoolone.github.io/RiverShore-game-animation/)
 
 Делаю на концепции ооп, что получится.
 Вот версия v1. (волны прокатываются слева направо) 
